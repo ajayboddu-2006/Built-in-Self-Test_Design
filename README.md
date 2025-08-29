@@ -1,5 +1,4 @@
 # Built in Self Test (BIST) Design
-# Built-In Self-Test (BIST) Design
 
 ## What is BIST?
 **Built-In Self-Test (BIST)** is a **Design-for-Testability (DfT)** technique that equips digital circuits with the ability to **test themselves**.  
